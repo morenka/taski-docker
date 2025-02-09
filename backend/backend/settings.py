@@ -1,5 +1,4 @@
 import os
-
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -14,7 +13,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '84.201.152.199',
     'svirimaya.hopto.org'
-    ]
+]
 
 
 # Application definition
